@@ -1,4 +1,4 @@
-# Github Finder - <span style="font-size:smaller;">word</span>
+# Github Finder - <span style="font-size:16px;">word</span>
 ### Search Engine for Github Users
 
 
