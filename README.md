@@ -1,4 +1,5 @@
-# Github Finder - ### dfdf
+# Github Finder
+### Search Engine for Github Users
 
 
 ## APIs used for this project
