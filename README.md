@@ -7,6 +7,6 @@ With this service, the clients will be able to simply access to summary of the t
 ## APIs used for this project
 https://api.github.com/users
 
-## References to complete this project
+## References
 #### How To Use Async Await in React (componentDidMount Async)
 https://www.valentinog.com/blog/await-react/
