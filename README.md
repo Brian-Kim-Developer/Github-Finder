@@ -1,5 +1,7 @@
-# Github Finder - <span style="font-size:16px;">word</span>
-### Search Engine for Github Users
+# Github Finder
+## Introduction
+The aim of this project is to provide users with search engine service that enables them to reach out people who are using Github.
+With this service, the clients will be able to simply access to the summary of the targets - including Name, Location, Hirable Status, Professional Summary, Current Company, Website, Followers & Followoing, Public Repos & Public Gists, and the link to visit Github Profile.
 
 
 ## APIs used for this project
