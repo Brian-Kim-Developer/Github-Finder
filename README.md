@@ -10,6 +10,12 @@ With this service, the clients will be able to simply access to summary of the t
 https://api.github.com/users <br/><br/>
 https://api.github.com/search/users?q=${text}&client_id=${process.env.REACT_APP_GITHUB_CLIENT_ID}&client_secret=${process.env.REACT_APP_GITHUB_CLIENT_SECRET}
 
+## Resources
+#### Docs for the Github API:
+https://developer.github.com/v3/
+#### To Register Github App & Get Keys:
+https://github.com/settings/applications/new
+
 ## References
 #### How To Use Async Await in React (componentDidMount Async)
 https://www.valentinog.com/blog/await-react/
