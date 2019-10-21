@@ -21,3 +21,5 @@ https://github.com/settings/applications/new
 https://www.valentinog.com/blog/await-react/
 #### What is preventDefault() in React?
 https://www.robinwieruch.de/react-preventdefault
+#### What is the meaning of {…this.props} in Reactjs
+https://stackoverflow.com/questions/28452358/what-is-the-meaning-of-this-props-in-reactjs
