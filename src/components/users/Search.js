@@ -15,6 +15,7 @@ const Search = ({ searchUsers, showClear, clearUsers, setAlert }) => {
   };
 
   const onChange = e => setText(e.target.value);
+
   return (
     <div>
       <form onSubmit={onSubmit} className='form'>
