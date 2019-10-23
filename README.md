@@ -13,6 +13,8 @@ https://api.github.com/users/${username}?client_id=${process.env.REACT_APP_GITHU
 https://api.github.com/users/${username}/repos?per_page=5&sort=created:asc&client_id=${process.env.REACT_APP_GITHUB_CLIENT_ID}&client_secret=${process.env.REACT_APP_GITHUB_CLIENT_SECRET}
 
 ## Resources
+#### Tips for Deploying NGINX (Official Image) with Docker
+https://www.docker.com/blog/tips-for-deploying-nginx-official-image-with-docker/
 #### Docs for the Github API:
 https://developer.github.com/v3/
 #### To Register Github App & Get Keys:
