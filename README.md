@@ -142,3 +142,54 @@ publish="build"
 ```
 #### 4. Init netlify
 ```netlify init```
+#### 5. package.json
+```
+{
+  "homepage": ".",
+  "name": "github_finder",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.19.0",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
+  },
+  "description": "The aim of this project is to provide users with search engine service that enables them to reach out people who are using Github.\r With this service, the clients will be able to simply access to summary of the targets' information - including Name, Location, Hireable Status, Professional Summary, Current Company, Website, Followers & Followoing, Public Repos & Public Gists, and Link to visit the Github Profile.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gyeongwon-Kim/Github-Finder.git"
+  },
+  "author": "Gyeongwon Kim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gyeongwon-Kim/Github-Finder/issues"
+  }
+}
+```
