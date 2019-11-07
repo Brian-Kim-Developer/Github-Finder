@@ -142,4 +142,3 @@ publish="build"
 ```
 #### 4. Init netlify
 ```netlify init```
-#### 5. 
