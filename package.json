@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/Gyeongwon-Kim/github-finder.git",
+  "homepage": "https://github.com/Gyeongwon-Kim/Github-Finder.git",
   "name": "github_finder",
   "version": "0.1.0",
   "private": true,
@@ -38,11 +38,11 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Gyeongwon-Kim/github-finder.git"
+    "url": "git+https://github.com/Gyeongwon-Kim/Github-Finder.git"
   },
   "author": "Gyeongwon Kim",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Gyeongwon-Kim/github-finder/issues"
+    "url": "https://github.com/Gyeongwon-Kim/Github-Finder/issues"
   }
 }
